@@ -12,10 +12,6 @@ We kindly ask you to refrain from malicious acts that put our users, the project
 
 We consider the security of our systems a top priority. But no matter how much effort we put into system security, there can still be vulnerabilities present.
 
-If you discover a security vulnerability, please use one of the following means of communications to report it to us:
-
-- Report the security issue on our [MetaMask HackerOne](https://hackerone.com/metamask) program.
-
-For further questions about our security program please visit the [MetaMask Security Program](https://metamask.io/security/) page.
+If you discover a security vulnerability, please use one of the following means of communications to report it to us by e-mail at security@mirrrorwallet.com
 
 Your efforts to responsibly disclose your findings are sincerely appreciated and will be taken into account to acknowledge your contributions.
